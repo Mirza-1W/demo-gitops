@@ -22,10 +22,6 @@ spec:
     namespace: dev
 
   syncPolicy:
-    automated:
-#      prune: true
-      selfHeal: true
-      allowEmpty: false
     syncOptions:
       - CreateNamespace=true
       - PrunePropagationPolicy=foreground
