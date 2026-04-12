@@ -17,3 +17,4 @@ GRANT ALL PRIVILEGES ON SCHEMA quality_control TO pharmaadmin;
 GRANT ALL PRIVILEGES ON SCHEMA supplier TO pharmaadmin;
 GRANT ALL PRIVILEGES ON SCHEMA distribution TO pharmaadmin;
 GRANT ALL PRIVILEGES ON SCHEMA reporting TO pharmaadmin;
+
